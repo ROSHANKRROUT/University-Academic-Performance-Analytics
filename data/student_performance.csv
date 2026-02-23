@@ -1,0 +1,5 @@
+student_id,student_name,department,course_id,faculty_id,date_id,marks,attendance_percentage
+1,Rahul,Computer Science,101,501,2024-01-10,85,90
+2,Anita,Electronics,102,502,2024-01-11,92,95
+3,Ravi,Computer Science,101,501,2024-01-12,78,85
+4,Priya,Mechanical,103,503,2024-01-13,88,92
